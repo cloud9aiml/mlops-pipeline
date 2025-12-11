@@ -5,8 +5,9 @@ Building End-to-End ML Pipeline using MLOps:
 4. Add resources to git by running "git add, commit, push" commands sequentially 
 
 Setting up DVC Pipeline (without params)
+----------------------------------------
 5. Create dvc.yaml file and add stages to it.
-6. "dvc init" to initiate DVC and then do "dvc repro" to test the pipeline automation. (check dvc dag)
+6. In command prompt run "dvc init" to initiate DVC and then do "dvc repro" to test the pipeline automation. (check dvc dag)
 7. Add resources to git by running "git add, commit, push" commands sequentially 
 
 Setting up DVC Pipeline (with params)
